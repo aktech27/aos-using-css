@@ -16,4 +16,4 @@ To view the live preview of the example, [Click Here](https://aktech27.github.io
 
 The same AOS effect can be achieved using JS, which is used to set dynamic values for different elements minimal CSS(only for styling). Check it out here:
 
-[AOS using CSS](https://github.com/aktech27/aos-using-js)
+[AOS using JS](https://github.com/aktech27/aos-using-js)
